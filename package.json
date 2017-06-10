@@ -1,0 +1,17 @@
+{
+  "name": "journey",
+  "version": "0.0.0",
+  "description": "A small journey report generation tool.",
+  "main": "index.js",
+  "dependencies": {
+    "fast-exif": "^1.0.1",
+    "mustache": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/alxtsg/journey.git"
+  },
+  "author": "alextsang@live.com",
+  "license": "BSD-3-Clause",
+  "homepage": "https://bitbucket.org/alxtsg/journey#readme"
+}
