@@ -232,7 +232,7 @@ function batchResize() {
         'convert',
         '-auto-orient',
         '-geometry',
-        '500x',
+        '1280x720>',
         '+profile',
         '"*"',
         photo.path,
