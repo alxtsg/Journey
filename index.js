@@ -269,7 +269,7 @@ function generatePage() {
         };
         photos.forEach((photo) => {
           view.photos.push({
-            source: `thumbnails/${photo.filename}`,
+            filename: photo.filename,
             altText: `Photo captured at ${photo.modificationTime}.`,
             timestamp: photo.modificationTime
           });
