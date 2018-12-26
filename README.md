@@ -30,7 +30,7 @@ Command arguments:
 The following will be created in the specified directory:
 
 * `index.html`: The journey report as an HTML document for further editing.
-* `thumbnails`: The directory contains thumbnails of the photos. Each photo is resized so that it is 500 pixels wide at maximum.
+* `thumbnails`: The directory contains thumbnails of the photos. Each photo is resized so that the image dimension is 1280 pixels (width) by 720 pixels (height) at maximum.
 
 ## Examples ##
 

@@ -1,11 +1,11 @@
 {
   "name": "journey",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A small journey report generation tool.",
   "main": "index.js",
   "dependencies": {
     "fast-exif": "^1.0.1",
-    "mustache": "^2.3.0"
+    "mustache": "^3.0.1"
   },
   "repository": {
     "type": "git",
