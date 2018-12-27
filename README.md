@@ -4,6 +4,8 @@
 
 A small journey report generation tool.
 
+**This application is no longer being maintained.**
+
 ## Requirements ##
 
 * Node.js (`>=6.11.0`).
